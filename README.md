@@ -22,9 +22,9 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ### Program to implement the K Means Clustering for Customer Segmentation.
 
-__Developed by: LAKSHMIDHAR N__
+__Developed by: DAKSHINA MOORTHY N D__
 
-__Register Number: 212224230138__
+__Register Number: 212224230049__
 
 ```py
 import pandas as pd
@@ -88,17 +88,29 @@ plt.title("Customer Segments")
 
 ## Output:
 
+
+
 <img width="552" height="191" alt="image" src="https://github.com/user-attachments/assets/3e614ed8-e926-4e7b-a943-ea054b925b40" />
+
+
 
 
 <img width="406" height="212" alt="image" src="https://github.com/user-attachments/assets/4b247d7e-1d79-4af3-8be6-956ef92d3d85" />
 
+
+
 <img width="397" height="220" alt="image" src="https://github.com/user-attachments/assets/404cae4e-ca74-418f-8049-1aa2498fad3b" />
+
+
 
 <img width="601" height="475" alt="image" src="https://github.com/user-attachments/assets/9188775f-6b38-4f48-bd71-304d7017dcf6" />
 
 
+
+
 <img width="584" height="179" alt="image" src="https://github.com/user-attachments/assets/9cbf58fb-2257-4d0e-ac58-d68f299e49ce" />
+
+
 
 
 <img width="574" height="466" alt="image" src="https://github.com/user-attachments/assets/5edac3aa-b8a2-4dee-9f95-3252f1207610" />
